@@ -34,9 +34,10 @@ public class FoldingCellListAdapter extends ArrayAdapter<Item> {
             R.drawable.ara,
             R.drawable.tango,
             R.drawable.jacquard,
-            R.drawable.tango,
+            R.drawable.vault,
             R.drawable.soli,
-            R.drawable.tango,
+            R.drawable.spotlight,
+            R.drawable.abacus
 
     };
 

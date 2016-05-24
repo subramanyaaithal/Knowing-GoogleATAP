@@ -5,10 +5,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
-
-import com.raisethetech.android.googleatap.FoldingCellListAdapter;
-import com.raisethetech.android.googleatap.Item;
-import com.raisethetech.android.googleatap.R;
 import com.ramotion.foldingcell.FoldingCell;
 
 import java.util.ArrayList;
