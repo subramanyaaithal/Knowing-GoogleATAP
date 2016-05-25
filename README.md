@@ -1,16 +1,18 @@
 # Knowing-GoogleATAP
 An App showcasing all the Google ATAP Projects announced till-date ie
 
-### Project ARA
+Project ARA
 
-### Project TANGO
+Project TANGO
 
-### Project JACQUARD
+Project JACQUARD
 
-### Project VAULT
+Project VAULT
 
-### Project SOLI
+Project SOLI
 
-### Spotlight Studio
+Spotlight Studio
   
-This is my submission as my Final PRoject for Google StudyJam Course.
+### Google StudyJamCourse on Android Development Course for Beginners
+  
+      This is my submission as my Final Project for Google StudyJam Course.
