@@ -3,14 +3,14 @@ An App showcasing all the Google ATAP Projects announced till-date ie
 
   ###Project ARA
   
-  ###Project ARA
+  ###Project TANGO
   
-  ###Project ARA
+  ###Project JACQUARD
   
-  ###Project ARA
+  ###Project VAULT
   
-  ###Project ARA
+  ###Project SOLI
   
+  ###SPOLTLIGHT STUDIO
   
-
 This is my submission as my Final PRoject for Google StudyJam Course.
