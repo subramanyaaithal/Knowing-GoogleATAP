@@ -3,7 +3,7 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@drawable/cell_content_background"
-    android:minHeight="500dp"
+    android:minHeight="550dp"
     android:visibility="gone"
     >
 
@@ -29,8 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18sp"
-            android:padding="16dp"
-                android:paddingBottom="52dp"/>
+            android:padding="16dp" />
 
 
 
