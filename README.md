@@ -1,4 +1,11 @@
 # Knowing-GoogleATAP
+
+
+<p align="center">
+  <img src=" https://github.com/Utkarshbhimte/Knowing-GoogleATAP/blob/master/screenshots/13321239_1111064085599745_1039913673_o.jpg " width="350"/>
+  <img src=" https://github.com/Utkarshbhimte/Knowing-GoogleATAP/blob/master/screenshots/13340617_1111062965599857_1580361326_o.jpg " width="350"/>
+</p>
+
 An App showcasing all the Google ATAP Projects announced till-date ie Project ARA, Project TANGO, Project JACQUARD, Project VAULT,Project SOLI & Spotlight Studio..
 
 ##Technical Details
